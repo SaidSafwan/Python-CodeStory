@@ -31,7 +31,7 @@ print(len(str))
 
 # slicing index can also be mention we negative index, negative value starting from string last char with -1 as starting index
 # print(str[-5: ])
-newstr= "i am Enthusiast Coder, And Learnig Python Course from Standford University"
+newstr= "i am Enthusiast Coder, And i Learn Python Course from Standford University"
 
 # in-built() - check for end words
 print(newstr.endswith("er"))
