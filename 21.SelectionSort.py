@@ -15,8 +15,8 @@ def SelectionSort(list, n):
 n = int(input("Enter list size: "))
 list = []
 for i in  range(n):
-    list.append(input())
-    
+    list.append(int(input("Enter element: ")))  # Convert input to integer
+
 SelectionSort(list, n)
 print(list)
 
