@@ -1,4 +1,4 @@
-# Question 5: Write a Python program to count the frequency of each element in a list.
+# Question: Write a Python program to count the frequency of each element in a list.
 
 num = [1, 2, 3, 1, 3, 4, 2, 2, 3, 5]
 

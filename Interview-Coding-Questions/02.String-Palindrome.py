@@ -1,4 +1,4 @@
-# Question 1: Write a Python program to check if a string is a palindrome.
+# Question: Write a Python program to check if a string is a palindrome.
 
 def is_Palindrome(str):
     reverse_str = str[::-1]

@@ -1,4 +1,4 @@
-# Question 9: Write a Python program to find the second largest number in a list.
+# Question: Write a Python program to find the second largest number in a list.
 
 def find_second_Largest(numbers):
     nums.sort()

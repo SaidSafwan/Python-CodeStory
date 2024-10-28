@@ -1,3 +1,5 @@
+# Question 6: Write a Python program to check if a number is prime.
+
 # def is_prime(number):
 #     if(number < 2):
 #         return False
